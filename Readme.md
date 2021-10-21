@@ -4,13 +4,13 @@ This repository summarizes the related research topics of Data Science and Artif
 
 ## Topic
 
-1. **[Graph Neural Network](https://github.com/KanghoonYoon/PaperList_Summary/Graph.md)
+1. **Graph Neural Network [link](Graph.md)
 
-2. **[Dynamic Graph](https://github.com/KanghoonYoon/PaperList_Summary/Dynamic-Graph.md)
+2. **Dynamic Graph [link](Dynamic-Graph.md)
 
-3. **[Sequential Recommendation](https://github.com/KanghoonYoon/PaperList_Summary/Sequential-Recommendation.md)
+3. **Sequential Recommendation [link](Sequential-Recommendation.md)
 
-4. **[Session based Recommendation](https://github.com/KanghoonYoon/PaperList_Summary/SessionRecommendation.md)
+4. **Session-based Recommendation [link](SessionRecommendation.md)
 
-5.. **[Scene Graph Generation](https://github.com/KanghoonYoon/PaperList_Summary/SGG.md)
+5.. **Scene Graph Generation [link](SGG.md)
 
