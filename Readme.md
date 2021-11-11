@@ -12,7 +12,7 @@ This repository summarizes the related research topics of Data Science and Artif
 
 4. **Session-based Recommendation** [link](Session-Recommendation.md) 
 
-5. **Other Recommendation** [link]()
+5. **Other Recommendation** [link](https://github.com/KanghoonYoon/PaperList_Summary/blob/master/Recommendation)
 
 5. **Scene Graph Generation** [link](SGG.md)
 
