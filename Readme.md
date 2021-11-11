@@ -10,7 +10,9 @@ This repository summarizes the related research topics of Data Science and Artif
 
 3. **Sequential Recommendation** [link](Sequential-Recommendation.md)
 
-4. **Session-based Recommendation** [link](Session-Recommendation.md)
+4. **Session-based Recommendation** [link](Session-Recommendation.md) 
+
+5. **Other Recommendation** [link]()
 
 5. **Scene Graph Generation** [link](SGG.md)
 
