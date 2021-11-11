@@ -10,4 +10,3 @@
 
 ### 2019
 
-* \[IJCAI 2019 \] **Sequential and Diverse Recommendation with Long Tail**
